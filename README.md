@@ -1,12 +1,11 @@
- 
+# SG_Topo_Generator
+
 Smart Grid communication networks is a heterogeneous network consists of PLC Nodes and Wireless nodes, 
 which reside in substations in power grid. An example of generated topology is shown at below:
  
  
 PLC nodes are smart meters and Wireless Nodes are Wireless access points in a wireless mesh network, which is installed in substations in a city. 
 This script first places smart meters according to a minimum and maximum Threshold between smart meters. Then using an Integer Linear Programming model places the wireless nodes to provide the best connectivity between PLC nodes. SCIP optimization suite is used to solve the optimization model. 
-
-# SG_Topo_Generator
 
 A topology generator for a heterogeneous Smart Grid communication networks
 
@@ -44,11 +43,11 @@ If you are interested to contribute drop me an email through vahid.zolfaghari@au
 
 ## Authors
 
-* **Vahid Zolfaghari** - *Initial work* - [Ceit Website](ceit.aut.ac.ir/~zolfaghari)
+* **Vahid Zolfaghari** - *Initial work* - [ceit.aut.ac.ir/~zolfaghari](ceit.aut.ac.ir/~zolfaghari)
 
 ## License
 
 This project is licensed under the MIT License
 
 ## Acknowledgments
- I want to Thank [Dr Masoud Shokrnezhad](https://www.linkedin.com/in/masoud-shokrnezhad-7851a5111/) 
+ I want to Thank [Dr Masoud Shokrnezhad](http://ceit.aut.ac.ir/~m.shokrnezhad/) 

@@ -43,7 +43,7 @@ If you are interested to contribute drop me an email through vahid.zolfaghari@au
 
 ## Authors
 
-* **Vahid Zolfaghari** - *Initial work* - [ceit.aut.ac.ir/~zolfaghari](ceit.aut.ac.ir/~zolfaghari)
+* **Vahid Zolfaghari** - *Initial work* - [ceit.aut.ac.ir/~zolfaghari](http://ceit.aut.ac.ir/~zolfaghari/) 
 
 ## License
 
